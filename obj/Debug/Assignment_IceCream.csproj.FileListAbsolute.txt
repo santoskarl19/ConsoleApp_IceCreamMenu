@@ -1,0 +1,8 @@
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\bin\Debug\Assignment_IceCream.exe.config
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\bin\Debug\Assignment_IceCream.exe
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\bin\Debug\Assignment_IceCream.pdb
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\obj\Debug\Assignment_IceCream.csproj.AssemblyReference.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\obj\Debug\Assignment_IceCream.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\obj\Debug\Assignment_IceCream.csproj.CoreCompileInputs.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\obj\Debug\Assignment_IceCream.exe
+C:\MSSA\Week 5\Assignment\Assignment_5.3\Assignment_IceCream\obj\Debug\Assignment_IceCream.pdb
